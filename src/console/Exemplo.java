@@ -10,5 +10,6 @@ package console;
  * @author douglasro
  */
 public class Exemplo {
-    
+    String senha = "12345";
+    int numero = 0;
 }
